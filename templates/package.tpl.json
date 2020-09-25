@@ -1,0 +1,9 @@
+{
+    "name": "fundamenty-template",
+    "version": "0.1.0",
+    "description": "CLI tool to generate Fundamenty site",
+    "repository": "git-repo",
+    "author": "",
+    "devDependencies": {
+    }
+}
